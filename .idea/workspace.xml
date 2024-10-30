@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79765081-8199-4489-a4d0-57ee472670ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day2/div.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/exam1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/exam2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/selector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/style1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/style2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/style3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/div.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/div.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -37,21 +43,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USER/WebstormProjects/web_basic/src/main.js&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/USER/WebstormProjects/web_basic/day2",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/USER/WebstormProjects/web_basic/src/main.js",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\WebstormProjects\web_basic\day2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\WebstormProjects\web_basic" />
       <recent name="C:\Users\USER\WebstormProjects\web_basic\day1" />
@@ -74,7 +85,7 @@
       <updated>1730169151205</updated>
       <workItem from="1730169152117" duration="8388000" />
       <workItem from="1730185730081" duration="598000" />
-      <workItem from="1730248753651" duration="4085000" />
+      <workItem from="1730248753651" duration="13921000" />
     </task>
     <servers />
   </component>
