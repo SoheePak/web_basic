@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script>
+    function exam(){
+      let name = prompt("이름을 입력하세요.");
+      while(name === null){
+        name = prompt("이름을 입력하세요.");
+      }
+      alert(`${name}님 안녕하세요.`)
+    }
+
+  </script>
+</head>
+<body>
+<button onclick="exam()">버튼</button>
+
+</body>
+</html>
