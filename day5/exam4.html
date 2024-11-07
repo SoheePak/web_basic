@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+            integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+    <style>
+      div{
+        display:inline-block;
+        width:200px;
+        height:50px;
+        border:1px solid black;
+        text-align: center;
+        line-height: 50px;
+      }
+      .normal{
+        background-color:gray;
+        color:white;
+      }
+      .pressed{
+         background-color:white;
+         color:black;
+       }
+    </style>
+    <script>
+      function clicked(target){
+        const buttons = document.getElementsByTagName("div")
+        for(let i=0;i<buttons.length;i++){
+          buttons[i].className="normal"
+        }
+        target.className ="pressed";
+      }
+    </script>
+</head>
+<body>
+  <div class="normal" onclick ="clicked(this)">html</div>
+  <div class="normal"onclick ="clicked(this)">css</div>
+  <div class="normal"onclick ="clicked(this)">javascript</div>
+</body>
+</html>

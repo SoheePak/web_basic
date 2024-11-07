@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <style>
+    #div1{
+      border: 0.5px solid black;
+      background-color: darkslateblue;
+      color: white;
+      font-size: 15px;
+      padding: 3px;
+    }
+    #div2{
+      border: 0.5px solid black;
+      background-color: lightgray;
+      padding:3px;
+      font-size: 15px;
+    }
+    .div3{
+      background-color: white;
+      margin:10px;
+      padding:5px;
+      font-size: 15px;
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+          integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+  <script>
+    function addText(){
+      const text = $("#inputText").val();
+      $(".contents").append('<div class="div3">${text}</div>')
+      $("#inputText").val('');
+    }
+  </script>
+</head>
+<body>
+<div id="div1">최도근님, 안녕하세요?</div>
+
+<div id="div2" class="contents">
+  <div>페이스북 색감따라하기</div>
+  <div class="div3">
+    <span><b>박지성</b> SBS에서 월드컵보세요!</span>
+  </div>
+  <div class="div3">
+    <span><b>안정환</b> MBC죠...</span>
+  </div>
+  <div class="div3">
+    <span><b>이영표</b> KBS는 수신료의 가치를..</span>
+  </div>
+</div>
+<input type="text" id="inputText">
+<button onclick="addText()">등록하기</button>
+</body>
+</html>
