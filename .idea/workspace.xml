@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79765081-8199-4489-a4d0-57ee472670ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day5/exam1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/exam3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/exam4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/effect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/effect1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/exam2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/exam3.html" beforeDir="false" afterPath="$PROJECT_DIR$/day4/exam3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/jquery.html" beforeDir="false" afterPath="$PROJECT_DIR$/day5/jquery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/effect1.html" beforeDir="false" afterPath="$PROJECT_DIR$/day6/effect1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +93,7 @@
       <workItem from="1730334907008" duration="13828000" />
       <workItem from="1730769222142" duration="16765000" />
       <workItem from="1730852471081" duration="20879000" />
-      <workItem from="1730939699547" duration="4886000" />
+      <workItem from="1730939699547" duration="14070000" />
     </task>
     <servers />
   </component>
