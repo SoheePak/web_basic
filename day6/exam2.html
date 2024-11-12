@@ -6,6 +6,20 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
   <style>
+    .sliding-background{
+      background: url("back.jpg");
+      width: 200%;
+      height: 100%;
+      animation: slide 20s linear infinite;
+    }
+    @keyframes slide {
+      from{
+        transform : translate(0,0);
+      }
+      to{
+        transform: translate(-450px,0);
+      }
+    }
     #background {
       background-image: url("back.jpg");
       background-size: cover;
@@ -170,6 +184,7 @@
 </head>
 <body>
 <div id="background">
+  <div class="sliding-background"></div>
   <div id="player">
     <img src="player.png" width="50px" height="50px">
   </div>
