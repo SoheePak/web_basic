@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79765081-8199-4489-a4d0-57ee472670ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day8/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/ajax_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/ajax_info2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/exam1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/fetch.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/exam2.html" beforeDir="false" afterPath="$PROJECT_DIR$/day6/exam2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,29 +40,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/WebstormProjects/web_basic/day5&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/USER/WebstormProjects/web_basic/src/main.js&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/USER/WebstormProjects/web_basic/day8",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/USER/WebstormProjects/web_basic/src/main.js",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Markdown&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Markdown"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\WebstormProjects\web_basic\day8" />
       <recent name="C:\Users\USER\WebstormProjects\web_basic\day5" />
       <recent name="C:\Users\USER\WebstormProjects\web_basic\day4" />
       <recent name="C:\Users\USER\WebstormProjects\web_basic\day2" />
@@ -92,7 +97,8 @@
       <workItem from="1730769222142" duration="16765000" />
       <workItem from="1730852471081" duration="20879000" />
       <workItem from="1730939699547" duration="16111000" />
-      <workItem from="1731371038582" duration="454000" />
+      <workItem from="1731371038582" duration="5934000" />
+      <workItem from="1731463020566" duration="5759000" />
     </task>
     <servers />
   </component>
